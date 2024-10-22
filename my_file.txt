@@ -1,0 +1,6 @@
+Line 1: Hello, World!
+Line 2: The year is 2024.
+Line 3: Python is amazing with PLP!
+Line 4: Appending new content.
+Line 5: Coding is fun and amazing!
+Line 6: Let's keep learning and explole the World.
